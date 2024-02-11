@@ -1,0 +1,24 @@
+
+.container{
+    /* width: 400px;
+    height:600px; */
+    border:2px solid black;
+    /* overflow: visible; */
+    /* overflow: hidden; */
+    /* overflow: scroll; */
+     /* overflow: auto; */
+     display: none;
+
+} 
+/* .block{
+    overflow:Auto;
+} */
+.image1{
+    float:right;
+}
+.image2{
+    float:left;
+}
+.p2{
+    clear:both;
+}

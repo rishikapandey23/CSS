@@ -1,0 +1,20 @@
+h1{
+    /* text-decoration: line-through;
+    text-decoration-line: underline;
+    text-decoration-color: aqua;
+    text-decoration-style: wavy;
+    text-transform: lowercase;
+    text-indent: 80px;
+    letter-spacing: 0.1rem;
+    line-height:1.6rem ;
+    word-spacing: 10px; */
+
+    /* color: transparent; */
+    /* text-shadow: 4px 2px 1px red, 6px 5px 1px blue; */
+
+
+    font-family: sans-serif;
+    font-size: 1.2rem;
+    font-weight: 800;
+    font-style: italic;
+}
